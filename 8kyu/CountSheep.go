@@ -1,4 +1,4 @@
-package kata
+package eigthkyu
 
 import "fmt"
 

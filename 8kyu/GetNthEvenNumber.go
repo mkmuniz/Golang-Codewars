@@ -1,5 +1,5 @@
-package main
+package eigthkyu
 
-func NthEven(n int) int  {
-  return n * 2 - 2
+func NthEven(n int) int {
+	return n*2 - 2
 }
