@@ -1,4 +1,4 @@
-package kata
+package seventhkyu
 
 func ArrowArea(a, b int) float64 {
 	valueOne := float64(a)

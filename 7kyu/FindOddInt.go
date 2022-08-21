@@ -1,4 +1,4 @@
-package main
+package seventhkyu
 
 func FindOdd(seq []int) int {
 	isCompleted := false
