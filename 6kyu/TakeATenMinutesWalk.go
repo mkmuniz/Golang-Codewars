@@ -1,4 +1,4 @@
-package kata
+package sixthkyu
 
 func IsValidWalk(walk []rune) bool {
 	n := 0
